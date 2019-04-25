@@ -13,6 +13,14 @@
 
 ## Disclaimer
 
+This is just a hobby project and **using any of the provided code / files is at your own risk!**
+
+In my interpretation, this UI mod falls under the category of "Cosmetic UI mods" which should not result in VAC ban (see for example: [link](https://dota2.gamepedia.com/Ban#Exceptions)). But to reiterate, using it is your own responsibility. 
+
 ## Description
 
-TBA
+In order to run this you need:
+
+* Python 3.X   
+* Valve Resource Viewer --> see instructions here: [README](#)  
+* VPK Creator --> see instructions here: [README](#)

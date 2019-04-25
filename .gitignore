@@ -1,0 +1,10 @@
+**/__pycache__/
+.ipynb_checkpoints
+dev
+tmp
+utils/dota2_decompiler/*
+!utils/dota2_decompiler/README.txt
+
+utils/vpk_packager/*
+!utils/vpk_packager/README.txt
+
