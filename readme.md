@@ -7,8 +7,8 @@
 
 <p align="center">
   This repository contains the Python code used to generate the VPK for the Dota 2 Auto Chess UI mod. <br> <br>
-  <span><strong>Download: </strong><a href="https://github.com/auto-chess-ui-mod/download">repository</a></span>
-  <span><strong>Source code: </strong><a href="https://github.com/auto-chess-ui-mod/source ">repository </a></span><br>
+  <span><strong>Download: </strong><a href="https://github.com/auto-chess-ui-mod/download">repository</a></span><br>
+  <span><strong>Source code: </strong><a href="https://github.com/auto-chess-ui-mod/source ">repository </a></span>
 </p>
 
 ## Disclaimer
