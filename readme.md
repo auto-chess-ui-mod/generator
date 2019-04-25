@@ -22,5 +22,5 @@ In my interpretation, this UI mod falls under the category of "Cosmetic UI mods"
 In order to run this you need:
 
 * Python 3.X   
-* Valve Resource Viewer --> see instructions here: [README](https://raw.githubusercontent.com/auto-chess-ui-mod/generator/master/utils/dota2_decompiler/README.txt)  
-* VPK Creator --> see instructions here: [README](https://raw.githubusercontent.com/auto-chess-ui-mod/generator/master/utils/vpk_packager/README.txt)
+* Valve Resource Viewer --> see instructions here: [README](https://github.com/auto-chess-ui-mod/generator/tree/master/utils/dota2_decompiler)  
+* VPK Creator --> see instructions here: [README](https://github.com/auto-chess-ui-mod/generator/tree/master/utils/vpk_packager)
