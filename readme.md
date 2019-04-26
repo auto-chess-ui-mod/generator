@@ -23,4 +23,6 @@ In order to run this you need:
 
 * Python 3.X   
 * Valve Resource Viewer --> see instructions here: [README](https://github.com/auto-chess-ui-mod/generator/tree/master/utils/dota2_decompiler)  
+* .dot CORE SDK (for the Valve Resource Viewer) --> https://dotnet.microsoft.com/download    
 * VPK Creator --> see instructions here: [README](https://github.com/auto-chess-ui-mod/generator/tree/master/utils/vpk_packager)
+* Dota 2 Workshop Tools (DLC for Dota 2)    

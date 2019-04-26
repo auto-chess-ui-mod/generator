@@ -73,7 +73,7 @@ with open(os.path.join(path_to_store_og_code, os.path.normpath('panorama/scripts
 
 # ### Load modded code
 
-with open(os.path.join(path_to_custom_code, 'dota_hud_pregame.js'), 'r') as file:
+with open(os.path.join(path_to_custom_code, 'dota_hud_pregame.js'), 'r', encoding='utf-8') as file:
     modded_code = file.read()
 
 # ### Modify based on parameters
@@ -100,7 +100,7 @@ tmp_path = os.path.join(path_to_store_uncompiled_code, os.path.normpath('panoram
 if not os.path.exists(tmp_path):
     os.makedirs(tmp_path)
 
-with open(os.path.join(tmp_path, 'dota_hud_pregame.js'), 'w') as file:
+with open(os.path.join(tmp_path, 'dota_hud_pregame.js'), 'w', encoding='utf-8') as file:
     file.write(modified_code)
 
 # ## Create VPK file for mod
