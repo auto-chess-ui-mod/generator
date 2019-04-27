@@ -103,6 +103,7 @@ if not os.path.exists(tmp_path):
 with open(os.path.join(tmp_path, 'dota_hud_pregame.js'), 'w', encoding='utf-8') as file:
     file.write(modified_code)
 
+
 # ## Create VPK file for mod
 
 # ### Move new data to content folder
@@ -111,7 +112,6 @@ if os.path.exists(path_to_content_folder):
     shutil.rmtree(path_to_content_folder)
 os.mkdir(path_to_content_folder)
 shutil.copytree(os.path.join(path_to_store_uncompiled_code, 'panorama'), os.path.join(path_to_content_folder, 'panorama'))
-
 
 # ### Compile
 
@@ -133,6 +133,7 @@ print(o)
 # ### Create `vpk_list.txt`
 
 file_list = ['panorama/scripts/hud/dota_hud_pregame.vjs_c']
+
 with open(os.path.join(path_to_mod_folder, 'vpk_list.txt'), 'w') as f:
     for item in file_list:
         f.write("%s\n" % item)    
